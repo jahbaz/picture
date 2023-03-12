@@ -1,0 +1,57 @@
+.nav{
+    height: 40px;
+    width: 98%;
+    /* margin: 10px; */
+    /* margin-left: 10px; */
+    background-color: greenyellow;
+    color: rgba(255, 0, 0, 0.281)a(255, 0, 0, 0.13);
+    border-radius: 5px;
+    margin: 15px;
+    margin-right: 10px;
+    
+}
+.na{
+    background-color: black;
+    margin-left: 10px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+}
+.navs{
+    background-color: yellow;
+    margin-left: 10px;
+    height: 40px;
+    border-radius: 15px;
+    color: rgb(56, 72, 100);
+}
+.home{
+    background-color: rgb(116, 129, 131);
+    margin-left: 10px;
+    height: 40px;
+    border-radius: 11px;
+    color: rgb(56, 72, 100);
+
+}
+.pic{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    background-color: rgb(71, 80, 73);
+    margin-left: 400px;
+    margin-top: 5px;
+}
+.nm{
+    margin: 5px;
+
+}
+
+.navb{
+    margin-left: 20px;
+}
+.carousell{
+    margin: 10px;
+    
+}
+.button{
+    margin: 40px;
+}
